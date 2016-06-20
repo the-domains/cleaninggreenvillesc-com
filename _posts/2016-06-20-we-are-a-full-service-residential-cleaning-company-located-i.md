@@ -6,10 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   We are a full service residential cleaning company located in Greenville, SC.
-  Here are the services that we offer. Call now for more information. (864)
-  640-4159
-datePublished: '2016-06-20T16:26:20.381Z'
-dateModified: '2016-06-20T16:26:19.990Z'
+  Here are the services that we offer. Call now for more information.
+datePublished: '2016-06-20T16:26:53.796Z'
+dateModified: '2016-06-20T16:26:53.479Z'
 title: ''
 author: []
 authors: []
@@ -21,6 +20,8 @@ url: we-are-a-full-service-residential-cleaning-company-located-i/index.html
 _type: Article
 
 ---
-We are a full service residential cleaning company located in Greenville, SC. Here are the services that we offer. Call now for more information. [(864) 640-4159][0]
+We are a full service residential cleaning company located in Greenville, SC. Here are the services that we offer. Call now for more information.
+
+[(864) 640-4159][0]
 
 [0]: tel:+18646404159
