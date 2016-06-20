@@ -1,0 +1,28 @@
+name: CleaningGreenvilleSC.com
+favicon: null
+layout_spectrum: 0.21248458069749177
+typography_spectrum: 0.13943780935369432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06816506898030639
+  lightness: 0.9813905577175319
+  saturation: 0.37726199394091964
+  rhythmicContrast: 0.23715241765603423
+purpose: []
